@@ -1,1 +1,3 @@
 # ajio
+shopping 
+offers
